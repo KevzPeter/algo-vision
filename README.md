@@ -1,6 +1,6 @@
-# Algorithm Visualizer
-
 A web app to help visualize how different algorithms work. You get to actually see what's happening under the hood when you run sorting algorithms or traverse graphs.
+
+![demo](media/demo.png)
 
 ## What it does
 
